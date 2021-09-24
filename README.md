@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hello,
+shyam here i like java and sql ok thats it...
